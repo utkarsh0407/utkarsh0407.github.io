@@ -21,6 +21,7 @@
 - [Build your website in 3 steps](#build-your-website-in-3-steps)
 - [Add your own content](#add-your-own-content)
 - [Last important thing: YAML front matter ("parameters" for a page)](#last-important-thing-yaml-front-matter-parameters-for-a-page)
+- [Final but Important Steps](#fianl-but-important-steps)
 
 ## Prerequisites
 
